@@ -1,4 +1,4 @@
-h1{
+.header{
     color: navy;
     background-color: black;
     margin: 20px ;
@@ -16,7 +16,7 @@ h1{
     margin: 20px ;
     text-align: justify;
     text-shadow: rgb(221, 8, 8);
-    height: 100px;
+    height: 120px;
     width: 40%;
     padding: 15px;
     border: 5px solid coral;
@@ -24,7 +24,7 @@ h1{
 }
 .author-name{
     color: crimson;
-    
+
 }
 p{
     margin-left: 35px;
