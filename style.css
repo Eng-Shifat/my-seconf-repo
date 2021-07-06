@@ -1,5 +1,5 @@
 .header{
-    color: navy;
+    color: rgb(227, 227, 236);
     background-color: black;
     margin: 20px ;
     text-align:center;
@@ -24,6 +24,7 @@
 }
 .author-name{
     color: crimson;
+    display:contents;
 
 }
 p{
