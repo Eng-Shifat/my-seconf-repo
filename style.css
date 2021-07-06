@@ -30,3 +30,9 @@
 p{
     margin-left: 35px;
 }
+.image{
+    height: 2in;
+    width: 2in;
+    margin-right: 1000px;
+    position:relative;
+}
